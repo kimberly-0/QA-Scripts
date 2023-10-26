@@ -8,3 +8,5 @@ This script installs the following:
 - Jenkins
 - Git
 - Docker
+
+Run script in a Linux Bash shell with the following command : `./install-jenkins-script.sh`
